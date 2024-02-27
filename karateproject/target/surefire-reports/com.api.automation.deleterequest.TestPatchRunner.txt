@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.api.automation.deleterequest.TestPatchRunner
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.347 s - in com.api.automation.deleterequest.TestPatchRunner
